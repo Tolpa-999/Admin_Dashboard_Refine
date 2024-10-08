@@ -1,4 +1,4 @@
-import { Authenticated, GitHubBanner, Refine } from "@refinedev/core";
+import { Authenticated, Refine } from "@refinedev/core";
 import { DevtoolsPanel, DevtoolsProvider } from "@refinedev/devtools";
 import { RefineKbar, RefineKbarProvider } from "@refinedev/kbar";
 
@@ -24,7 +24,6 @@ import Edit from "./pages/compony/edit";
 import List from "./pages/tasks/list";
 import EditTask from "./pages/tasks/edit";
 import CreateTask from "./pages/tasks/create";
-
 
 
 
